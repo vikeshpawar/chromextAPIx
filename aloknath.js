@@ -7,4 +7,7 @@
 document.getElementsByName("FN")[0].value = 'Vikesh' ;
 document.getElementsByName("LN")[0].value = 'Pawar' ;
 document.getElementsByName("InterestedInEducation")[0].selectedIndex=1;
-
+//$('#cc-panel-Service #ProgramsOfInterestType > u').click()
+//document.getElementById("ui-id-218").click();
+document.getElementsByName("DegreeStartTimeframe")[0].selectedIndex=1;
+document.getElementsByName("EducationLevel")[0].selectedIndex=8;
