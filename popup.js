@@ -6,7 +6,7 @@ window.onload = function () {
 			
             file: "aloknath.js"
         }, function () {});
-		
+		 
 	});
 
 }
